@@ -26,6 +26,6 @@ I'm always open to new ideas and collaboration. Whether you want to discuss a pr
 - 📫 [LinkedIn Messaging](https://www.linkedin.com/in/irohit-mishra)
 
 Let's build something amazing together! 🚀
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=irohit-mishra&theme=hacker)](https://git.io/streak-stats)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=irohit-mishra&theme=hacker)](https://git.io/streak-stats)
+![irohit-mishra's Stats](https://github-readme-stats.vercel.app/api?username=irohit-mishra&theme=chartreuse-dark&show_icons=true&hide_border=true&count_private=true)
+![irohit-mishra's Streak](https://github-readme-streak-stats.herokuapp.com/?user=irohit-mishra&theme=chartreuse-dark&hide_border=true)
+![irohit-mishra's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=irohit-mishra&theme=chartreuse-dark&show_icons=true&hide_border=true&layout=compact)
