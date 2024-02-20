@@ -27,5 +27,5 @@ I'm always open to new ideas and collaboration. Whether you want to discuss a pr
 
 Let's build something amazing together! 🚀
 
-[![Rohit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=irohit-mishra&show_icons=true&theme=radical)](https://github.com/irohit-mishra)
+[![GitHub Streak](https://streak-stats.demolab.com?user=irohit-mishra&theme=hacker)](https://git.io/streak-stats)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=irohit-mishra&theme=hacker)](https://git.io/streak-stats)
