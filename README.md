@@ -4,7 +4,6 @@ I'm Rohit Mishra, an aspiring developer passionate about technology and continuo
 
 🚀 Let's Connect:
 - [LinkedIn](https://www.linkedin.com/in/irohit-mishra/)
-- [Twitter](https://twitter.com/rrealrohit)
 
 ## About Me
 
@@ -22,7 +21,6 @@ I believe in the power of open source and collaboration. Feel free to reach out 
 I'm always open to new ideas and collaboration. Whether you want to discuss a project, need advice, or just want to say hi, feel free to reach out:
 
 - 📧 Email: mail.irohitmishra@gmail.com
-- 💬 [Twitter DM](https://twitter.com/rrealrohit)
 - 📫 [LinkedIn Messaging](https://www.linkedin.com/in/irohit-mishra)
 
 Let's build something amazing together! 🚀
